@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departments_array">
+        <item>ACCT      Accounting</item>
+        <item>CSD       Computer Science</item>
+        <item>BAKE      Baking</item>
+    </string-array>
+    <string-array name="quarters_array">
+        <item>Winter 21</item>
+        <item>Spring 21</item>
+    </string-array>
+    <string-array name="courses_array">
+        <item>Any</item>
+    </string-array>
+    <string-array name="items_array">
+        <item>Any</item>
+    </string-array>
+</resources>
